@@ -1,0 +1,20 @@
+3. Load Save Display
+4. Image Processing (translation, rotation, resizing, cropping, flipping, arithmetic, mask, splitting channel, color spaces)
+5. Accessing Pixel
+6. Drawing
+7. Histogram
+8. Smoothing Blurring
+9. Thresholding
+10. Edge detection
+11. Contours
+
+
+3. Load frames and display frames X
+4. Verification? Crop for better effect, split channels 
+5. Access color?
+6. Draw points of interest
+7. Find features with Histogram
+8. process image for best effect
+9. Threshold for intended points
+10. Edge detection
+11. Contours
